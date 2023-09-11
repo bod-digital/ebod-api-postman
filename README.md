@@ -9,16 +9,16 @@ You only need to import and set up with your own API and secret keys to begin.
 - Download the `ebod-api-postman` repository.
 
 - Click the `Import` button. On Postman for Mac, for example, the button is at the top left:
-![image](https://github.com/bod-digital/ebod-api-postman/assets/142394627/24fc2de1-3773-4a05-a80e-583dc47300a4)
+![image](https://github.com/bod-digital/ebod-api-postman/assets/142394627/ee98ac9d-5770-4dea-8be3-931667ea5272)
 
 - On the `Import` pop-up page, select the `Folder` tab. Click the `Choose folder from your computer` button and choose the root folder of the downloaded repository.
-![image](https://github.com/bod-digital/ebod-api-postman/assets/142394627/e6e50e19-8724-4d43-bbea-ae464a0ad37b)
+![image](https://github.com/bod-digital/ebod-api-postman/assets/142394627/b95f9e5d-099e-4210-bc9e-e56c0671c401)
 
 - Select which collections and environments you would like to import and click the `Import` button.
-![image](https://github.com/bod-digital/ebod-api-postman/assets/142394627/de35c332-7eeb-4329-a58c-8a9d2b18ccc1)
+![image](https://github.com/bod-digital/ebod-api-postman/assets/142394627/09c43d0c-7bc1-473d-996a-d4c25ce84177)
 
 - Select the `Collections` tab on the left, choose an `EBOD API`, then select `Authorization` tab and select `Bearer Token` type and set your Token by changing the `Token value` input (see screenshot);
-![image](https://github.com/bod-digital/ebod-api-postman/assets/142394627/31fd9529-d999-4159-8b49-229d0e553822)
+![image](https://github.com/bod-digital/ebod-api-postman/assets/142394627/cdacec63-35af-4bbf-9561-44a1eec71fae)
   
 
 ## Postman safety practices
